@@ -37,9 +37,9 @@ export function Navbar() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <Link href="/" className="flex items-center gap-3">
           <img
-            src="/images/gemini-generated-image-9tom5i9tom5i9tom.jpeg"
+            src="/images/logo.png"
             alt="TechCrunchy Logo"
-            className="h-10 w-10 object-contain"
+            className="h-10 w-auto object-contain"
           />
           <span className="font-heading text-xl font-bold text-foreground">
             TechCrunchy
