@@ -5,7 +5,7 @@ import { ServiceJsonLd } from "@/components/seo/json-ld"
 import { MarketingContent } from "./content"
 
 export const metadata: Metadata = {
-  title: "Data-Driven Digital Marketing Services | SEO, PPC & Content | NexaByte",
+  title: "Data-Driven Digital Marketing Services | SEO, PPC & Content | TechCrunchy",
   description:
     "ROI-focused digital marketing campaigns. Technical SEO audits, Google Ads management, content strategy, and performance analytics that drive real results.",
   keywords: [

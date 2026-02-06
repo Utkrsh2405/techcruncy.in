@@ -9,21 +9,21 @@ const testimonials = [
     name: "Sarah Mitchell",
     role: "CEO, TechForge Solutions",
     content:
-      "NexaByte transformed our outdated platform into a modern, high-performance application. Our page load times dropped by 60% and conversions increased by 35%.",
+      "TechCrunchy transformed our outdated platform into a modern, high-performance application. Our page load times dropped by 60% and conversions increased by 35%.",
     rating: 5,
   },
   {
     name: "James Rodriguez",
     role: "CMO, GrowthLab",
     content:
-      "The digital marketing team at NexaByte delivered exceptional results. Our organic traffic tripled within six months, and our cost per acquisition dropped significantly.",
+      "The digital marketing team at TechCrunchy delivered exceptional results. Our organic traffic tripled within six months, and our cost per acquisition dropped significantly.",
     rating: 5,
   },
   {
     name: "Emily Chen",
     role: "Founder, HealthSync",
     content:
-      "From the initial discovery call to the App Store launch, the NexaByte team was professional, responsive, and deeply technical. They built our health app on time and under budget.",
+      "From the initial discovery call to the App Store launch, the TechCrunchy team was professional, responsive, and deeply technical. They built our health app on time and under budget.",
     rating: 5,
   },
   {
@@ -37,14 +37,14 @@ const testimonials = [
     name: "Laura Petersen",
     role: "VP Marketing, CloudNova",
     content:
-      "NexaByte's PPC management reduced our ad spend by 40% while increasing qualified leads by 55%. Truly data-driven marketing at its best.",
+      "TechCrunchy's PPC management reduced our ad spend by 40% while increasing qualified leads by 55%. Truly data-driven marketing at its best.",
     rating: 5,
   },
   {
     name: "Michael Tanaka",
     role: "Product Lead, UrbanShift",
     content:
-      "The cross-platform mobile app NexaByte built for us is flawless. Smooth animations, great UX, and zero crash reports since launch.",
+      "The cross-platform mobile app TechCrunchy built for us is flawless. Smooth animations, great UX, and zero crash reports since launch.",
     rating: 5,
   },
 ]

@@ -5,9 +5,9 @@ import { ServiceJsonLd } from "@/components/seo/json-ld"
 import { AppDevContent } from "./content"
 
 export const metadata: Metadata = {
-  title: "Custom Mobile App Development Services | iOS & Android | NexaByte",
+  title: "Custom Mobile App Development Services | iOS & Android | TechCrunchy",
   description:
-    "Build high-performance native and cross-platform mobile applications with NexaByte. From iOS to Android, we deliver apps that users love.",
+    "Build high-performance native and cross-platform mobile applications with TechCrunchy. From iOS to Android, we deliver apps that users love.",
   keywords: [
     "mobile app development",
     "iOS development",

@@ -40,7 +40,7 @@ export function WhyUs() {
             variants={fadeUp}
             className="text-sm font-semibold uppercase tracking-wider text-[#06b6d4]"
           >
-            Why NexaByte
+            Why TechCrunchy
           </motion.p>
           <motion.h2
             variants={fadeUp}

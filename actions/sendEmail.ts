@@ -50,7 +50,7 @@ export async function sendContactEmail(formData: {
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f8fafc;">
         <div style="background: linear-gradient(135deg, #6366f1, #06b6d4); padding: 30px; border-radius: 12px 12px 0 0;">
           <h1 style="color: white; margin: 0; font-size: 24px;">New Lead Received</h1>
-          <p style="color: rgba(255,255,255,0.8); margin: 8px 0 0 0;">A new inquiry has been submitted via the NexaByte website.</p>
+          <p style="color: rgba(255,255,255,0.8); margin: 8px 0 0 0;">A new inquiry has been submitted via the TechCrunchy website.</p>
         </div>
         <div style="background: white; padding: 30px; border-radius: 0 0 12px 12px; border: 1px solid #e2e8f0; border-top: none;">
           <table style="width: 100%; border-collapse: collapse;">

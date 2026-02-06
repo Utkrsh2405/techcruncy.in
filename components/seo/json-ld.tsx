@@ -2,14 +2,14 @@ export function OrganizationJsonLd() {
   const data = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "NexaByte",
-    url: "https://nexabyte.dev",
+    name: "TechCrunchy",
+    url: "https://techcruncy.in",
     description:
       "A 360-degree IT & digital agency specializing in app development, web development, and digital marketing.",
     sameAs: [],
     contactPoint: {
       "@type": "ContactPoint",
-      telephone: "+1-800-555-0199",
+      telephone: "+91-6377791241",
       contactType: "sales",
     },
   }
@@ -36,7 +36,7 @@ export function ServiceJsonLd({
     description,
     provider: {
       "@type": "Organization",
-      name: "NexaByte",
+      name: "TechCrunchy",
     },
   }
 

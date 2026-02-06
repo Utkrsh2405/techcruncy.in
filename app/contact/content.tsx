@@ -92,9 +92,9 @@ export function ContactContent() {
                     Office
                   </h3>
                   <p className="mt-1 text-sm text-muted-foreground">
-                    123 Innovation Drive, Suite 400
+                    Pratap Nagar
                     <br />
-                    San Francisco, CA 94105
+                    Jaipur, Rajasthan 302033
                   </p>
                 </div>
               </div>
@@ -108,7 +108,7 @@ export function ContactContent() {
                     Phone
                   </h3>
                   <p className="mt-1 text-sm text-muted-foreground">
-                    +1 (800) 555-0199
+                    +91 6377791241
                   </p>
                 </div>
               </div>
@@ -122,7 +122,7 @@ export function ContactContent() {
                     Email
                   </h3>
                   <p className="mt-1 text-sm text-muted-foreground">
-                    hello@nexabyte.dev
+                    techcrunchy.in@gmail.com
                   </p>
                 </div>
               </div>
@@ -134,8 +134,8 @@ export function ContactContent() {
               className="overflow-hidden rounded-xl border border-white/10"
             >
               <iframe
-                title="NexaByte office location"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.019789879959!2d-122.39941248468168!3d37.78994197975663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8085807f619a0a01%3A0x7f1ac9d3a3b0e849!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus"
+                title="TechCrunchy office location"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.7337!2d75.7863143!3d26.8797879!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5c1f0000001%3A0x1a2b3c4d5e6f7g8h!2sPratap%20Nagar%2C%20Jaipur%2C%20Rajasthan%20302033!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
                 width="100%"
                 height="250"
                 style={{ border: 0 }}
