@@ -11,6 +11,7 @@ const navLinks = [
   { href: "/services/web-development", label: "Web Dev" },
   { href: "/services/digital-marketing", label: "Digital Marketing" },
   { href: "/contact", label: "Contact" },
+  { href: "/blog", label: "Blog" },
 ]
 
 export function Navbar() {
@@ -35,15 +36,12 @@ export function Navbar() {
       }`}
     >
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
-        <Link href="/" className="flex items-center gap-3">
+        <Link href="/">
           <img
             src="/images/logo.png"
             alt="TechCrunchy Logo"
-            className="h-10 w-auto object-contain"
+            className="h-16 w-auto object-contain"
           />
-          <span className="font-heading text-xl font-bold text-foreground">
-            TechCrunchy
-          </span>
         </Link>
 
         {/* Desktop Nav */}

@@ -3,6 +3,7 @@ import type { Metadata, Viewport } from "next"
 import { Inter, Plus_Jakarta_Sans } from "next/font/google"
 import { Toaster } from "sonner"
 import "./globals.css"
+import { OrganizationJsonLd, LocalBusinessJsonLd } from "@/components/seo/json-ld"
 
 const inter = Inter({
   subsets: ["latin"],

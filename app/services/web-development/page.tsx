@@ -2,6 +2,7 @@ import type { Metadata } from "next"
 import { Navbar } from "@/components/layout/navbar"
 import { Footer } from "@/components/layout/footer"
 import { ServiceJsonLd } from "@/components/seo/json-ld"
+import { BreadcrumbJsonLd } from "@/components/seo/json-ld"
 import { WebDevContent } from "./content"
 
 export const metadata: Metadata = {
